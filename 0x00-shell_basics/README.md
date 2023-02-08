@@ -12,4 +12,7 @@ Lists contents of your current directory
 cd
 Changes the working directory to the user's home directory
 
+#!/bin/bash
+ls -l
+Displays current directory contents in a long format
 
