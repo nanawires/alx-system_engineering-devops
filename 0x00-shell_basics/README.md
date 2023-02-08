@@ -2,4 +2,14 @@
 
 #!/bin/bash
 pwd
-Shows you current working  directory
+Shows your current working directory
+
+#!/bin/bash
+ls
+Lists contents of your current directory
+
+#!/bin/bash
+cd
+Changes the working directory to the user's home directory
+
+
