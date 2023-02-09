@@ -18,4 +18,8 @@ Displays current directory contents in a long format
 
 #!/bin/bash
 ls -la
-Displays current directory content, including hidden files and using long format
+Displays current directory contents, including hidden files and using long format
+
+#!/bin/bash
+ls -lan
+Displays current directory contents, user and group IDs displaying numerically, hidden files all in long format
