@@ -40,3 +40,8 @@ Removes the file betty from /tmp/my_first_directory
 rmdir /tmp/my_first_directory
 Deletes my_first_directory from the /tmp/ directory
 
+#!/bin/bash
+cd -
+Changes the working directory to thr previous one
+
+
