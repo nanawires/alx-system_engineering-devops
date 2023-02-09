@@ -23,3 +23,7 @@ Displays current directory contents, including hidden files and using long forma
 #!/bin/bash
 ls -lan
 Displays current directory contents, user and group IDs displaying numerically, hidden files all in long format
+
+#!/bin/bash
+mkdir /tmp/my_first_directory
+Creates a directory my_first_directory in the /tmp/ directory
