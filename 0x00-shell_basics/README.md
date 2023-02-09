@@ -27,3 +27,11 @@ Displays current directory contents, user and group IDs displaying numerically, 
 #!/bin/bash
 mkdir /tmp/my_first_directory
 Creates a directory my_first_directory in the /tmp/ directory
+
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_directory
+Moves the file betty form /tmp/ directory into /tmp/my_first_directory
+
+#!/bin/bash
+rm /tmp/my_first_directory/betty
+Removes the file betty from /tmp/my_first_directory
