@@ -35,3 +35,8 @@ Moves the file betty form /tmp/ directory into /tmp/my_first_directory
 #!/bin/bash
 rm /tmp/my_first_directory/betty
 Removes the file betty from /tmp/my_first_directory
+
+#!/bin/bash
+rmdir /tmp/my_first_directory
+Deletes my_first_directory from the /tmp/ directory
+
