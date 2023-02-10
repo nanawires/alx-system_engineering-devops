@@ -1,0 +1,2 @@
+#!/bin/bash
+rmdir my_dir chmod 751 my_dir
