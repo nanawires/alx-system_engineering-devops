@@ -30,7 +30,7 @@ script creates an empty file called hello
 chmod u+x hello
 script adds execute permission to the owner of the file hello
 
-
-
-
-
+6-multiple_permissions
+#!/bin/bash
+chmod 774 hello
+script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
