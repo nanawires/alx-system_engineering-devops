@@ -32,5 +32,5 @@ script adds execute permission to the owner of the file hello
 
 6-multiple_permissions
 #!/bin/bash
-chmod 774 hello
+chmod 764 hello
 script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
