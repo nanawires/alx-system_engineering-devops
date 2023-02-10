@@ -37,6 +37,6 @@ script adds execute permission to the owner and the group owner, and read permis
 
 7-everybody
 #!/bin/bash
-chmod 777 hello
+chmod ugo+x hello
 script adds execution permission to the owner, the group owner and the other users, to the file hello
 
