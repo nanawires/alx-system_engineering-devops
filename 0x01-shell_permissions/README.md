@@ -10,3 +10,9 @@ script switches the current user to the user betty
 whoami
 script prints the effective username of the current user
 
+2-groups
+#!/bin/bash
+groups
+script prints all the groups the current user is part of
+
+
