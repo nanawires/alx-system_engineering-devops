@@ -27,6 +27,9 @@ script displays the last 10 lines of /etc/passwd
 
 5. I'd prefer the first ones actually
 #!/bin/bash
+head -n 10 /etc/passwd
+script displays the first 10 lines of /etc/passwd
 
-
+6. Line #2
+#!/bin/bash
 
