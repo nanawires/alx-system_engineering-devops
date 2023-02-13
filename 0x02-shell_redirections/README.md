@@ -12,5 +12,10 @@ script displays a confused smiley "(Ôo)'
 
 2. Let's display a file
 #!/bin/bash
+cat /etc/passwd
+script displays the content of the /etc/passwd file
+
+3. What about 2?
+#!/bin/bash
 
 
