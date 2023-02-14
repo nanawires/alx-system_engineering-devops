@@ -1,3 +1,4 @@
 #!/bin/bash
-awk '{print $3}' iacta
+cat iacta | awk 'NR==3'
+
 
